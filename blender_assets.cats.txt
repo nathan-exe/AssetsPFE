@@ -6,9 +6,10 @@
 
 VERSION 1
 
-a13e888c-0bb7-4bbd-8adb-52e2d387ae68:Material:Material
-e00a7f81-0e1c-404e-a22c-d8d005ea578e:Material/Tiling:Material-Tiling
-da996ee8-93c4-40ab-84f1-339f1cec0431:Material/Tiling/TrimSheets:Material-Tiling-TrimSheets
+a13e888c-0bb7-4bbd-8adb-52e2d387ae68:Materials:Materials
+e00a7f81-0e1c-404e-a22c-d8d005ea578e:Materials/Tiling:Materials-Tiling
+da996ee8-93c4-40ab-84f1-339f1cec0431:Materials/Tiling/TrimSheets:Materials-Tiling-TrimSheets
+83bac86f-5323-4548-be57-656183b7d3e5:Materials/props:Materials-props
 ebf3384b-ec37-4e88-b2f5-cf2367a705bb:Meshes:Meshes
 a77309e0-1e7b-478c-8d0d-cbedcbde092e:Meshes/Character:Meshes-Character
 2c2cd8a6-aef6-4a88-90ed-85877b23ba68:Meshes/Environnement:Meshes-Environnement
