@@ -7,9 +7,14 @@
 VERSION 1
 
 a13e888c-0bb7-4bbd-8adb-52e2d387ae68:Material:Material
+e00a7f81-0e1c-404e-a22c-d8d005ea578e:Material/Tiling:Material-Tiling
+da996ee8-93c4-40ab-84f1-339f1cec0431:Material/Tiling/TrimSheets:Material-Tiling-TrimSheets
 ebf3384b-ec37-4e88-b2f5-cf2367a705bb:Meshes:Meshes
-f1af1c10-6d03-4136-853f-f38d6850294c:Meshes/Armes:Meshes-Armes
 a77309e0-1e7b-478c-8d0d-cbedcbde092e:Meshes/Character:Meshes-Character
 2c2cd8a6-aef6-4a88-90ed-85877b23ba68:Meshes/Environnement:Meshes-Environnement
 b21e387c-a915-4440-bd00-d2879ddeba92:Meshes/Environnement/Architecture:Meshes-Environnement-Architecture
+af629f9a-8b18-4f85-b862-2317d6917af4:Meshes/Environnement/Architecture/Tower:Meshes-Environnement-Architecture-Tower
 151bfda9-7511-4355-8dd1-a12183ca6672:Meshes/Environnement/vegetation:Meshes-Environnement-vegetation
+762dfa61-679e-4bcc-b92b-8c4f295ae4b0:Meshes/Items:Meshes-Items
+f1af1c10-6d03-4136-853f-f38d6850294c:Meshes/Items/Armes:Meshes-Items-Armes
+d2022fcd-9737-4710-b1b0-2cb36416d4b0:Meshes/Items/consommables:Meshes-Items-consommables
